@@ -37,3 +37,27 @@ form input{
   }
 
 
+ /* Practice Area */
+ .img-icon{
+    width: 40px;
+ }
+
+.card{
+    border: 0;
+  }
+
+.effect:hover{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+  }
+
+/*carousel Client Say style */
+.legal-carousel-items {
+    width: 15%;
+}
+
+/* Frequently section style */
+/* Contact section style */
+
+/* Footer style section */
+
+
