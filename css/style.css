@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* common style  & legal class is a custom class name*/
+.legal-bg-primary{
+    background-color: #B68C5A;
+}
+
+.legal-text-primary{
+    color: #CFCFCF;
+}
+
+section{
+    margin: 120px 0px;
+  }
