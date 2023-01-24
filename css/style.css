@@ -4,7 +4,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-/* common style  & legal class is a custom class name*/
+/* common style */
 .legal-bg-primary{
     background-color: #B68C5A;
 }
@@ -51,13 +51,33 @@ form input{
   }
 
 /*carousel Client Say style */
+
+
 .legal-carousel-items {
     width: 15%;
 }
 
 /* Frequently section style */
+.legal-according{
+
+}
+
+.legal-according-items{
+    padding: 10px 0px;
+    margin-bottom: 30px;
+}
+
+.legal-according-header{
+    background-color: green;
+}
 /* Contact section style */
 
 /* Footer style section */
+footer .phone-list, footer .email-list{
+    line-height: 5px;
+}
 
+footer button{
+    margin-left: -66px
+}
 
